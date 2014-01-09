@@ -1,0 +1,18 @@
+== From Scattered to Scatterplot
+
+You found it! These are the code examples we’ll be working through during the workshop. All of these examples (including a handy cheat sheet) are also posted https://github.com/alignedleft/scattered-scatterplot[on GitHub], so you can download and run them locally.
+
+I will be using Chrome to walk through these examples during the workshop. You may want to also view this with Chrome, to follow along. (Due to a glitch, some verisons of Safari don’t display anything in the output panels below. If you’re having trouble with Safari, please switch to Chrome.)
+
+
+
+=== 00_empty_page_template.html
+
+jsbin::http://jsbin.com/iZASIxUF/2/embed?live,html[width="100%", height="400px"]
+
+
+
+=== 01_selecting_elements.html
+
+jsbin::http://jsbin.com/apOJiKO/2/embed?live,html[width="100%", height="500px"]
+
