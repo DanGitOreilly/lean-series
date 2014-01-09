@@ -12,9 +12,9 @@
     "chapter-figures.html",
     "AnotherChapterA.html",
     "AnotherChapterB.html",
+    "jsbin-test.asciidoc",
     "Code.html",
-    "06-appendix.html",
-    "jsbin-test.asciidoc"
+    "06-appendix.html"
   ],
   "formats": {
     "pdf": {
